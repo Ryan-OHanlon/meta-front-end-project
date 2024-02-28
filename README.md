@@ -1,2 +1,2 @@
 # meta-front-end-project
-Practice projects forMeta front-end developer professional certificate from Coursera
+Practice projects for Meta front-end developer professional certificate from Coursera
